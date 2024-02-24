@@ -1,0 +1,23 @@
+{
+  "name": "party.elke.statemachine",
+  "version": "0.0.1",
+  "displayName": "3LK3 State Machine",
+  "description": "A simple implementation of a state machine to be used in Unity game engine",
+  "unity": "2023.2",
+  "unityRelease": "11f1",
+  "documentationUrl": "https://3lk3.github.io/Unity.StateMachine/",
+  "changelogUrl": "https://github.com/3LK3/Unity.StateMachine/releases",
+  "dependencies": {	
+    "party.elke.utilities": "https://github.com/3LK3/Unity.Utilities.git",
+	},
+ "keywords": [
+    "unity",
+    "state-machine",
+    "statemachine"
+  ],
+  "author": {
+    "name": "Soeren Spindler",
+    "email": "",
+    "url": ""
+  }
+}
