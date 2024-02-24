@@ -1,6 +1,7 @@
 # 3lk3 Unity StateMachine
 
 A simple implementation of a state machine to be used in Unity game engine.
+This is a slightly modified version of the state machine used in the [UIToolkit Sample QuizU](https://assetstore.unity.com/packages/essentials/tutorial-projects/quizu-a-ui-toolkit-sample-268492).
 
 Have a look at the full documentation here: <br>
 [https://3lk3.github.io/Unity.StateMachine](https://3lk3.github.io/Unity.StateMachine)
