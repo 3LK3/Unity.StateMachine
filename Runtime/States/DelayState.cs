@@ -1,9 +1,8 @@
-﻿using Elke.StateMachine.Runtime.States;
-using System;
+﻿using System;
 using System.Collections;
 using UnityEngine;
 
-namespace Elke.DealersInArms.Runtime.StateMachine
+namespace Elke.StateMachine.Runtime.States
 {
     /// <summary>
     /// Delays the state-machine for the set amount. Pass in an Action<float> to run
