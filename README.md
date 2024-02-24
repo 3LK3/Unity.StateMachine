@@ -1,6 +1,3 @@
-# Unity.StateMachine
-A simple implementation of a state machine to be used in Unity game engine.
-
 # 3lk3 Unity StateMachine
 
 A simple implementation of a state machine to be used in Unity game engine.
